@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sergio López",
   "license": "ISC",
   "devDependencies": {
     "browserify": "^16.5.0",
